@@ -25,7 +25,7 @@ Quiz App is a mobile application built with Expo that fetches trivia questions f
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kishan-7077/quiz-app.git
+   git clone https://github.com/kishan-7077/QuizApp.git
    cd quiz-app
    ```
 
